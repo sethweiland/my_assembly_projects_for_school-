@@ -1,0 +1,1 @@
+Various assembly projects form the school, the asm files are labeled, projects include: a BetterRandomRange procedure, encrypting messages program, boolean calculator that can execute various operations like XOR, OR, AND, NOT etc. and others
